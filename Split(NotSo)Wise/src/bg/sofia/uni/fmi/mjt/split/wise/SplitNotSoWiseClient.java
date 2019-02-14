@@ -70,6 +70,8 @@ public class SplitNotSoWiseClient {
         }
         writer.println(command);
         loggedIn = false;
+        disconnect();
+        connect();
     }
 
     private void register() {
@@ -81,11 +83,13 @@ public class SplitNotSoWiseClient {
         String password = scanner.nextLine();
 
         writer.printf("register\n%s\n%s\n%s\n", name, username, password);
+
         try {
             if (reader.readLine().equals("true")) {
-
+                loggedIn = true;
+                System.out.println("You have registered successfully");
             } else {
-
+                System.out.println("This username is already taken !");
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
@@ -98,7 +102,18 @@ public class SplitNotSoWiseClient {
         System.out.print("password: ");
         String password = scanner.nextLine();
 
-        writer.printf("login\n%s\n%s", username, password);
+        writer.printf("login\n%s\n%s\n", username, password);
+
+        try {
+            if (reader.readLine().equals("true")) {
+                loggedIn = true;
+                System.out.println("You have been successfully logged in");
+            } else {
+                System.out.println("Wrong username or password !");
+            }
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     private void disconnect() {

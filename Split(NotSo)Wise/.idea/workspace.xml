@@ -16,42 +16,82 @@
     <session id="448867268">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.126" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="class" value="1" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3619" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="16504" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3619" />
+          <entry key="JAVA" value="16504" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="286">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2404#2405#0" expanded="true" />
+                <element signature="e#2432#2433#0" expanded="true" />
+                <element signature="e#2476#2477#0" expanded="true" />
+                <element signature="e#2518#2519#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="1437" column="19" selection-start-line="1437" selection-start-column="19" selection-end-line="1437" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/net/ServerSocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="622">
+              <caret line="512" column="18" selection-start-line="512" selection-start-column="18" selection-end-line="512" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -59,10 +99,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ClientRequestHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462">
-              <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+            <state relative-caret-position="1694">
+              <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4084#4085#0" expanded="true" />
+                <element signature="e#4139#4140#0" expanded="true" />
+                <element signature="e#5620#5621#0" expanded="true" />
+                <element signature="e#5649#5650#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/Group.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="516">
+              <caret line="83" column="80" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4101#4102#0" expanded="true" />
+                <element signature="e#4130#4131#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,22 +129,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="748">
+              <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#1022#1023#0" expanded="true" />
+                <element signature="e#1053#1054#0" expanded="true" />
+                <element signature="e#1591#1592#0" expanded="true" />
+                <element signature="e#1641#1642#0" expanded="true" />
+                <element signature="e#1715#1716#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/InputStreamReader.java">
+        <entry file="file://$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/split/wise/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+            <state relative-caret-position="5302">
+              <caret line="241" column="82" selection-start-line="241" selection-start-column="82" selection-end-line="241" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,8 +159,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+            <state relative-caret-position="506">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,7 +171,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/BufferedReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
+            <state relative-caret-position="214">
               <caret line="390" column="18" selection-start-line="390" selection-start-column="18" selection-end-line="390" selection-end-column="18" />
             </state>
           </provider>
@@ -115,8 +180,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ServerResponsePrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="472">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#293#294#0" expanded="true" />
@@ -135,6 +200,13 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StringBuilder</find>
+      <find>HashMap</find>
+      <find>%f</find>
+    </findStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -157,12 +229,15 @@
         <option value="$PROJECT_DIR$/src/SplitNotSoWiseClient.java" />
         <option value="$PROJECT_DIR$/src/User.java" />
         <option value="$PROJECT_DIR$/src/SplitNotSoWiseServer.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseServer.java" />
         <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ServerResponsePrinter.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseClient.java" />
         <option value="$PROJECT_DIR$/src/ClientRequestHandler.java" />
-        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ClientRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/test.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/Group.java" />
+        <option value="$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/split/wise/UserTest.java" />
         <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/User.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ClientRequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseClient.java" />
+        <option value="$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseServer.java" />
       </list>
     </option>
   </component>
@@ -172,10 +247,30 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SuspiciousMethodCalls</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -192,12 +287,28 @@
             <path>
               <item name="Split(NotSo)Wise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Split(NotSo)Wise" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Split(NotSo)Wise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Split(NotSo)Wise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Split(NotSo)Wise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Split(NotSo)Wise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Split(NotSo)Wise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Split(NotSo)Wise" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Split(NotSo)Wise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Split(NotSo)Wise" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="wise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -209,15 +320,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548361772745" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550187814326" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaPrograms\Split(NotSo)Wise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaPrograms\Split(NotSo)Wise" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,15 +353,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SplitNotSoWiseClient">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SplitNotSoWiseClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.split.wise.SplitNotSoWiseClient" />
+      <module name="Split(NotSo)Wise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.split.wise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitNotSoWiseServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.split.wise.SplitNotSoWiseServer" />
+      <module name="Split(NotSo)Wise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.split.wise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Split(NotSo)Wise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.split.wise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.split.wise" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.split.wise.UserTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testSendMessageToNoFriend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Split(NotSo)Wise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.split.wise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.split.wise" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.split.wise.UserTest" />
+      <option name="METHOD_NAME" value="testSendMessageToNoFriend" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testSendMessageToNonExistentUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Split(NotSo)Wise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.split.wise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.split.wise" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.split.wise.UserTest" />
+      <option name="METHOD_NAME" value="testSendMessageToNonExistentUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -267,6 +466,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.UserTest" />
+      <item itemvalue="JUnit.UserTest.testSendMessageToNonExistentUser" />
+      <item itemvalue="JUnit.UserTest.testSendMessageToNoFriend" />
+      <item itemvalue="Application.SplitNotSoWiseServer" />
+      <item itemvalue="Application.SplitNotSoWiseClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SplitNotSoWiseClient" />
+        <item itemvalue="Application.SplitNotSoWiseServer" />
+        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.UserTest.testSendMessageToNoFriend" />
+        <item itemvalue="JUnit.UserTest.testSendMessageToNonExistentUser" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -278,12 +493,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548331466383</updated>
-      <workItem from="1548331484571" duration="19548000" />
+      <workItem from="1548331484571" duration="29217000" />
+      <workItem from="1548430631228" duration="598000" />
+      <workItem from="1548500471453" duration="625000" />
+      <workItem from="1548674708055" duration="3469000" />
+      <workItem from="1548760677751" duration="4874000" />
+      <workItem from="1548860809856" duration="723000" />
+      <workItem from="1548935171247" duration="627000" />
+      <workItem from="1549147277790" duration="598000" />
+      <workItem from="1549189604929" duration="7579000" />
+      <workItem from="1549390077353" duration="374000" />
+      <workItem from="1549821625985" duration="777000" />
+      <workItem from="1549908944418" duration="2392000" />
+      <workItem from="1549965283604" duration="26115000" />
+      <workItem from="1550077072605" duration="14657000" />
+      <workItem from="1550148404479" duration="33208000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UserTest_testSendMessageToFriend - 2019.02.15 at 00h 20m 25s.xml">
+      <configuration name="UserTest.testSendMessageToFriend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSendMessageToFriend - 2019.02.15 at 00h 21m 35s.xml">
+      <configuration name="UserTest.testSendMessageToFriend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSendMessageToFriend - 2019.02.15 at 00h 21m 43s.xml">
+      <configuration name="UserTest.testSendMessageToFriend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSendMessageToFriend - 2019.02.15 at 00h 22m 05s.xml">
+      <configuration name="UserTest.testSendMessageToFriend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSendMessageToNonExistentUser - 2019.02.15 at 00h 24m 21s.xml">
+      <configuration name="UserTest.testSendMessageToNonExistentUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSendMessageToNonExistentUser - 2019.02.15 at 00h 24m 41s.xml">
+      <configuration name="UserTest.testSendMessageToNonExistentUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSendMessageToNoFriend - 2019.02.15 at 00h 25m 51s.xml">
+      <configuration name="UserTest.testSendMessageToNoFriend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest_testSendMessageToNoFriend - 2019.02.15 at 00h 26m 19s.xml">
+      <configuration name="UserTest.testSendMessageToNoFriend" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2019.02.15 at 00h 26m 27s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTest - 2019.02.15 at 01h 05m 09s.xml">
+      <configuration name="UserTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19548000" />
+    <option name="totallyTimeSpent" value="125833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,33 +559,34 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18456376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16040269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.40992907" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.65957445" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.0" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2539007" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.0" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,24 +596,95 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://D:/SplitNotSoWiseServer/Split(NotSo)Wise/src/bg/sofia/uni/fmi/mjt/split/wise/ServerResponsePrinter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SplitNotSoWiseServer/Split(NotSo)Wise/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseServer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SplitNotSoWiseServer/Split(NotSo)Wise/src/bg/sofia/uni/fmi/mjt/split/wise/ClientRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18150">
+          <caret line="887" column="23" selection-start-line="887" selection-start-column="23" selection-end-line="887" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11154">
+          <caret line="549" column="13" selection-start-line="549" selection-start-column="13" selection-end-line="549" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/test.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9592">
+          <caret line="482" column="17" selection-start-line="482" selection-start-column="17" selection-end-line="482" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48114">
+          <caret line="2273" column="68" selection-start-line="2273" selection-start-column="68" selection-end-line="2273" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/InputStreamReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="990">
           <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-965">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/BufferedReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
+        <state relative-caret-position="214">
           <caret line="390" column="18" selection-start-line="390" selection-start-column="18" selection-end-line="390" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ClientRequestHandler.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/net/ServerSocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+        <state relative-caret-position="622">
+          <caret line="512" column="18" selection-start-line="512" selection-start-column="18" selection-end-line="512" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="83" column="80" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4101#4102#0" expanded="true" />
+            <element signature="e#4130#4131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bg/sofia/uni/fmi/mjt/split/wise/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5302">
+          <caret line="241" column="82" selection-start-line="241" selection-start-column="82" selection-end-line="241" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -360,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ServerResponsePrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="472">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#293#294#0" expanded="true" />
@@ -370,34 +703,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="e#1641#1642#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/ClientRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4084#4085#0" expanded="true" />
+            <element signature="e#4139#4140#0" expanded="true" />
+            <element signature="e#5620#5621#0" expanded="true" />
+            <element signature="e#5649#5650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        <state relative-caret-position="506">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/User.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="358">
+          <caret line="1437" column="19" selection-start-line="1437" selection-start-column="19" selection-end-line="1437" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bg/sofia/uni/fmi/mjt/split/wise/SplitNotSoWiseServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="286">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2404#2405#0" expanded="true" />
+            <element signature="e#2432#2433#0" expanded="true" />
+            <element signature="e#2476#2477#0" expanded="true" />
+            <element signature="e#2518#2519#0" expanded="true" />
           </folding>
         </state>
       </provider>
